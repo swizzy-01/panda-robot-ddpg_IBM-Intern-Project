@@ -1,0 +1,7 @@
+OS: Linux-5.10.107+-x86_64-with-debian-bullseye-sid #1 SMP Tue Jun 21 15:24:18 UTC 2022
+Python: 3.7.12
+Stable-Baselines3: 1.5.0
+PyTorch: 1.11.0
+GPU Enabled: True
+Numpy: 1.21.6
+Gym: 0.21.0
